@@ -35,6 +35,7 @@ Databases & Infrastructure: MySQL, Oracle, MongoDB, Hyper-V, Windows Server
 Design & DevOps: Figma, Adobe XD, Git/GitHub, Linux 
 
 A Bit About Me
+
 🌍 Bilingual: I’m fluent in both English and French (B2 level).
 
 🛠️ Versatile: I don't just write code; I can set up your entire virtual network, from Domain Controllers to DHCP services.
